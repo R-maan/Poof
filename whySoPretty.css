@@ -1,0 +1,23 @@
+.poofBtn {
+    height: 30px;
+    width: 90px;
+    outline: none;
+    margin: 4px 3px;
+    border: none;
+    border-radius: 2px;
+    background-color:coral;
+    font-size: 14x;
+    font-family: sans-serif;
+    font-weight:bold;
+    display: inline-block;
+    align-content: center;
+  }
+
+  .para {
+    height: 30px;
+    width: 200px;
+    font-size: 14x;
+    font-family: sans-serif;
+    font-weight:600;
+    display: inline-block;
+  }
