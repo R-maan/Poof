@@ -3,7 +3,7 @@ A custom chrome extension for pull requests on github, to hide the changes from 
  
 This extension can hide all the files which are in `vendor` or `resources` folder of a pull request, as well as auto generated files `*.gen.go`, files in `.circleci`, and `go.mod` and `go.sum` to make the pull request shorter and easier to focus on the files which need to be reviewed.
 
-This is still WIP, but partially usable.
+👉🏼 _This is still WIP (version 0.1.0). Feel free to open issues or raise pull request._
 
 ## Installation:
 - Download the contents
